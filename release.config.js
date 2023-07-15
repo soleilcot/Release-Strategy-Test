@@ -18,10 +18,12 @@ let config = {
     {
       name: 'release',
       prerelease: 'RC',
+      options: { tagFormat: `v\${version}`, debug: true },
     },
     {
       name: 'dev',
       prerelease: 'dev',
+      options: { tagFormat: `v\${version}`, debug: true },
     },
   ],
 };
