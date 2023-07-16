@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.0...v1.7.1) (2023-07-16)
+
+
+### Bug Fixes
+
+* try new backmerge config ([4d22a34](https://github.com/soleilcot/Release-Strategy-Test/commit/4d22a3434e7ef5af5cbe52c064e91f585e27ba23))
+
 # [1.7.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.6.5...v1.7.0) (2023-07-16)
 
 
