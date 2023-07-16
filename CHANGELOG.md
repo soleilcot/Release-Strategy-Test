@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.4.0...v1.5.0) (2023-07-16)
+
+
+### Features
+
+* Test out only tagging release versions ([015b9c3](https://github.com/soleilcot/Release-Strategy-Test/commit/015b9c30e9edd95e505b9988aa7b1818f63d6af4))
+
 # [1.4.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.3.0...v1.4.0) (2023-07-16)
 
 
