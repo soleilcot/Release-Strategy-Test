@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.5.1...v1.6.0) (2023-07-16)
+
+
+### Bug Fixes
+
+* Fake release fix ([8953897](https://github.com/soleilcot/Release-Strategy-Test/commit/8953897c243c0ab44d6fafe93f3d39a907b4b7d5))
+* First fake fix ([8cd7333](https://github.com/soleilcot/Release-Strategy-Test/commit/8cd7333dd9ca352fb584659d3d91ca44b2c7d073))
+* second fake fix ([9ce9642](https://github.com/soleilcot/Release-Strategy-Test/commit/9ce9642bba09fb3400c1a0fa3b766242c7774d1f))
+
+
+### Features
+
+* first fake feature ([b839d03](https://github.com/soleilcot/Release-Strategy-Test/commit/b839d0353ad3db111f4928ce5fd36dfadcfbea61))
+
 ## [1.5.1](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.5.0...v1.5.1) (2023-07-16)
 
 
