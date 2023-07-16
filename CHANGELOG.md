@@ -1,3 +1,10 @@
+## [1.7.12](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.11...v1.7.12) (2023-07-16)
+
+
+### Bug Fixes
+
+* revert ([c9c84ab](https://github.com/soleilcot/Release-Strategy-Test/commit/c9c84ab29c16ac0e00d9d8f476c04dcba09d17a9))
+
 ## [1.7.11](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.10...v1.7.11) (2023-07-16)
 
 
