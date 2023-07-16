@@ -40,4 +40,5 @@ jobs:
           git pull
           git checkout dev
           git rebase main
+          git remote set-url --push origin https://soleilcot:$GITHUB_TOKEN@github.com/soleilcot/Release-Strategy-Test
           git push --force-with-lease origin dev
