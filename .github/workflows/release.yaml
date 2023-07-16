@@ -35,7 +35,7 @@ jobs:
         if: success()
         run: |
 
-          git clone https://$${GITHUB_TOKEN}@github.com/soleilcot/Release-Strategy-Test.git
+          git clone https://$${GH_TOKEN}@github.com/soleilcot/Release-Strategy-Test.git
           cd Release-Strategy-Test
 
           git config user.name "Soleil"
@@ -47,4 +47,4 @@ jobs:
           git rebase main
           git push --force-with-lease
 
-          git push https://$${GITHUB_TOKEN}@github.com/soleilcot/Release-Strategy-Test.git
+          git push https://$${GH_TOKEN}@github.com/soleilcot/Release-Strategy-Test.git
