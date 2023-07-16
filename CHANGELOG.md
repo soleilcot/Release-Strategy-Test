@@ -1,3 +1,10 @@
+## [1.6.3](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.6.2...v1.6.3) (2023-07-16)
+
+
+### Bug Fixes
+
+* tryout force push again ([336da63](https://github.com/soleilcot/Release-Strategy-Test/commit/336da6359304fb26c613fbf815cf979c6c332c0b))
+
 ## [1.6.2](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.6.1...v1.6.2) (2023-07-16)
 
 
