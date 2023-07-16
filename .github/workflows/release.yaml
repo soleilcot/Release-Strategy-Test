@@ -34,8 +34,8 @@ jobs:
       - name: Rebase dev branch on master
         if: success()
         run: |
-          git config user.name "Soleil Cotterell"
-          git config user.email "soleilari@gmail.com"
+          git config user.name "Soleil"
+          git config user.email "soleilcotterell@gmail.com"
 
           git checkout main
           git pull
