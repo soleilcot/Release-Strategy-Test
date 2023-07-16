@@ -1,3 +1,10 @@
+## [1.7.11](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.10...v1.7.11) (2023-07-16)
+
+
+### Bug Fixes
+
+* Add origin ([25f1799](https://github.com/soleilcot/Release-Strategy-Test/commit/25f17990dcadb9a18d6f36d1069241ee5f9a598f))
+
 ## [1.7.10](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.9...v1.7.10) (2023-07-16)
 
 
