@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.2.0...v1.3.0) (2023-07-16)
+
+
+### Bug Fixes
+
+* Another fix needed on release ([9f80333](https://github.com/soleilcot/Release-Strategy-Test/commit/9f80333c2c87e267fdb7590d48aa140a725436f2))
+* fix on release branch ([b374b31](https://github.com/soleilcot/Release-Strategy-Test/commit/b374b319834e9b8300437d277af710b363f4dad0))
+* Force push on backmerge ([545a899](https://github.com/soleilcot/Release-Strategy-Test/commit/545a8996d50c8a4bc134ca014ae5427aa0fa45f7))
+
+
+### Features
+
+* Only backmerge dev ([1f92d20](https://github.com/soleilcot/Release-Strategy-Test/commit/1f92d20f846d1d78ff1e593d9bc657e25e9b80cd))
+
 # [1.2.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.1.1...v1.2.0) (2023-07-16)
 
 
