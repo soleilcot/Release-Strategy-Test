@@ -6,6 +6,16 @@ let config = {
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
     '@semantic-release/github',
+    [
+      '@saithodev/semantic-release-backmerge',
+      {
+        branches: [
+          { from: 'main', to: 'release' },
+          { from: 'main', to: 'dev' },
+          { from: 'release', to: 'dev' },
+        ],
+      },
+    ],
   ],
   branches: [
     {
