@@ -1,3 +1,10 @@
+## [1.7.13](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.12...v1.7.13) (2023-07-16)
+
+
+### Bug Fixes
+
+* Use default token ([769c40a](https://github.com/soleilcot/Release-Strategy-Test/commit/769c40af52abe9f6a822b1b35e8d08b42fcd2ae7))
+
 ## [1.7.12](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.11...v1.7.12) (2023-07-16)
 
 
