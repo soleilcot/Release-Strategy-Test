@@ -1,3 +1,10 @@
+## [1.7.20](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.19...v1.7.20) (2023-07-16)
+
+
+### Bug Fixes
+
+* GH_TOKEN ([f1b2852](https://github.com/soleilcot/Release-Strategy-Test/commit/f1b28520c9e08487429886657465928217c1ea30))
+
 ## [1.7.19](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.18...v1.7.19) (2023-07-16)
 
 
