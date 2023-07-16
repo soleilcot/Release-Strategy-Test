@@ -5,7 +5,10 @@ on:
       - main
       - dev
       - release
-
+    tags-ignore:
+      - v*
+    paths-ignore:
+      - 'CHANGELOG.md'
 permissions: read-all
 
 jobs:
