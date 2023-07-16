@@ -1,3 +1,10 @@
+## [1.7.8](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.7...v1.7.8) (2023-07-16)
+
+
+### Bug Fixes
+
+* revert SSH ([ba08b55](https://github.com/soleilcot/Release-Strategy-Test/commit/ba08b559083b6de604d3f85896ff1c6ac3023d96))
+
 ## [1.7.7](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.6...v1.7.7) (2023-07-16)
 
 
