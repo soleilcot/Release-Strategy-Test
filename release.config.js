@@ -9,10 +9,7 @@ let config = {
     [
       '@saithodev/semantic-release-backmerge',
       {
-        backmergeBranches: [
-          { from: 'main', to: 'dev' },
-          { from: 'release', to: 'dev' },
-        ],
+        backmergeBranches: ['develop'],
       },
     ],
   ],
