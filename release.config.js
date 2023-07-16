@@ -13,7 +13,6 @@ let config = {
           { from: 'main', to: 'dev' },
           { from: 'release', to: 'dev' },
         ],
-        forcePush: true,
       },
     ],
   ],
