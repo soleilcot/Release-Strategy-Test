@@ -1,3 +1,10 @@
+## [1.7.15](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.14...v1.7.15) (2023-07-16)
+
+
+### Bug Fixes
+
+* add name ([e1075f6](https://github.com/soleilcot/Release-Strategy-Test/commit/e1075f686326bede2878139e45c0ab779287f4ec))
+
 ## [1.7.14](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.13...v1.7.14) (2023-07-16)
 
 
