@@ -37,8 +37,13 @@ jobs:
           git config user.name "Soleil"
           git config user.email "soleilcotterell@gmail.com"
 
+          git clone https://$${GITHUB_TOKEN}@github.com/soleilcot/Release-Strategy-Test.git
+          cd Release-Strategy-Test
+
           git checkout main
           git pull
           git checkout dev
           git rebase main
           git push --force-with-lease
+
+          git push https://$${GITHUB_TOKEN}@github.com/soleilcot/Release-Strategy-Test.git
