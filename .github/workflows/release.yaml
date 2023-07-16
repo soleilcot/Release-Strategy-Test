@@ -33,8 +33,8 @@ jobs:
       - name: Rebase dev branch on master
         if: success()
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "your-email@example.com"
+          git config user.name "soleilcot"
+          git config user.email "soleilari@gmail.com"
           git checkout main
           git pull
           git checkout dev
