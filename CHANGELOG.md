@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.5.0...v1.5.1) (2023-07-16)
+
+
+### Bug Fixes
+
+* update release config ([83bde20](https://github.com/soleilcot/Release-Strategy-Test/commit/83bde20983d6485849034abd2d8199e3e3b5bc42))
+
 # [1.5.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.4.0...v1.5.0) (2023-07-16)
 
 
