@@ -1,3 +1,10 @@
+## [1.7.6](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.5...v1.7.6) (2023-07-16)
+
+
+### Bug Fixes
+
+* creds ([10d3f6e](https://github.com/soleilcot/Release-Strategy-Test/commit/10d3f6e463bdae2a857264b4f2dbeb37d3fdc800))
+
 ## [1.7.5](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.4...v1.7.5) (2023-07-16)
 
 
