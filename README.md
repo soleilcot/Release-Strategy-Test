@@ -7,3 +7,4 @@ Fake fix 2
 Fake Feature 1
 Fake fix on release branch
 Sample work on dev
+HOTFIX
