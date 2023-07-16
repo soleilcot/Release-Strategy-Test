@@ -24,9 +24,19 @@ jobs:
         with:
           node-version: 'lts/*'
       - name: Install dependencies
-        run: npm install -g semantic-release @semantic-release/github @semantic-release/git @semantic-release/changelog @saithodev/semantic-release-backmerge
+        run: npm install -g semantic-release @semantic-release/github @semantic-release/git @semantic-release/changelog
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: npx semantic-release
+      - name: Rebase dev branch on master
+        if: success()
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "your-email@example.com"
+          git checkout main
+          git pull
+          git checkout dev
+          git rebase main
+          git push --force-with-lease origin dev
