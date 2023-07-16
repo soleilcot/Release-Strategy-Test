@@ -1,3 +1,10 @@
+## [1.7.3](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.2...v1.7.3) (2023-07-16)
+
+
+### Bug Fixes
+
+* Try rough alternative to backmerge ([2d33a6f](https://github.com/soleilcot/Release-Strategy-Test/commit/2d33a6fead5788ed5d3c3c3541e9eecfc5535c48))
+
 ## [1.7.2](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.1...v1.7.2) (2023-07-16)
 
 
