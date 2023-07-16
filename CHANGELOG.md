@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.1...v1.7.2) (2023-07-16)
+
+
+### Bug Fixes
+
+* develop -> dev ([e9fd9bf](https://github.com/soleilcot/Release-Strategy-Test/commit/e9fd9bfda0bf8aa6b30eea49fd606b0bd30b0a57))
+
 ## [1.7.1](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.0...v1.7.1) (2023-07-16)
 
 
