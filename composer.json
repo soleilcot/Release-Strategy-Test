@@ -1,0 +1,16 @@
+{
+    "name": "soleil/release-test",
+    "description": "Testing my release strategy",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Soleil",
+            "email": "soleilcotterell@gmail.com"
+        }
+    ],
+    "require": {}
+}

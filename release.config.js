@@ -13,12 +13,17 @@ let config = {
       prerelease: false,
     },
     {
+      name: '+([0-9])?(.{+([0-9]),x}).x',
+    },
+    {
       name: 'release',
       prerelease: 'RC',
+      options: { tagFormat: `v\${version}`, debug: true },
     },
     {
       name: 'dev',
       prerelease: 'dev',
+      options: { tagFormat: `v\${version}`, debug: true },
     },
   ],
 };
