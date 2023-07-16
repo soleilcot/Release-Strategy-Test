@@ -1,3 +1,10 @@
+## [1.7.7](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.6...v1.7.7) (2023-07-16)
+
+
+### Bug Fixes
+
+* Use SSH instead ([01915c8](https://github.com/soleilcot/Release-Strategy-Test/commit/01915c87f3aada3d7d75c5ba340f6ad40787513c))
+
 ## [1.7.6](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.5...v1.7.6) (2023-07-16)
 
 
