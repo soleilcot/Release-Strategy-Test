@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.3.0...v1.4.0) (2023-07-16)
+
+
+### Bug Fixes
+
+* Pretend I have a fix ([e5596d3](https://github.com/soleilcot/Release-Strategy-Test/commit/e5596d3cb3344bae2df77cd50d0af4b6e198f871))
+
+
+### Features
+
+* backmerge dev upon pre-release in release branch ([e403149](https://github.com/soleilcot/Release-Strategy-Test/commit/e4031492bd5cd2f0e6ba47522c1d0ab937a2cb6f))
+
 # [1.3.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.2.0...v1.3.0) (2023-07-16)
 
 
