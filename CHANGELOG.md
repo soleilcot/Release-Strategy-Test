@@ -1,3 +1,10 @@
+## [1.7.9](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.8...v1.7.9) (2023-07-16)
+
+
+### Bug Fixes
+
+* try something ([30a11fd](https://github.com/soleilcot/Release-Strategy-Test/commit/30a11fd3bb3a47b1425f04df5c1c5b0b25fcbe48))
+
 ## [1.7.8](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.7...v1.7.8) (2023-07-16)
 
 
