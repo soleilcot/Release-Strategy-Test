@@ -1,3 +1,10 @@
+## [1.7.10](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.9...v1.7.10) (2023-07-16)
+
+
+### Bug Fixes
+
+* forget variable ([1cfada3](https://github.com/soleilcot/Release-Strategy-Test/commit/1cfada3020c3fbae81a39ee379623494410e5208))
+
 ## [1.7.9](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.8...v1.7.9) (2023-07-16)
 
 
