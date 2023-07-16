@@ -26,7 +26,7 @@ let config = {
       name: '+([0-9])?(.{+([0-9]),x}).x',
     },
     {
-      name: 'release/*',
+      name: 'release',
       prerelease: 'RC',
     },
   ],
