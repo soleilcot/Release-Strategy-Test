@@ -1,3 +1,11 @@
+## [1.6.1](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.6.0...v1.6.1) (2023-07-16)
+
+
+### Bug Fixes
+
+* more work ([c11cb67](https://github.com/soleilcot/Release-Strategy-Test/commit/c11cb673b885896f2f8f5387794b9598a1be3cc3))
+* work on dev ([8cdd8e5](https://github.com/soleilcot/Release-Strategy-Test/commit/8cdd8e54cae591566c1b53cb63b088712004177e))
+
 # [1.6.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.5.1...v1.6.0) (2023-07-16)
 
 
