@@ -34,11 +34,12 @@ jobs:
       - name: Rebase dev branch on master
         if: success()
         run: |
-          git config user.name "Soleil"
-          git config user.email "soleilcotterell@gmail.com"
 
           git clone https://$${GITHUB_TOKEN}@github.com/soleilcot/Release-Strategy-Test.git
           cd Release-Strategy-Test
+
+          git config user.name "Soleil"
+          git config user.email "soleilcotterell@gmail.com"
 
           git checkout main
           git pull
