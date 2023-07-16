@@ -34,6 +34,7 @@ jobs:
       - name: Rebase dev branch on master
         if: success()
         run: |
+          git remote add origin https://github.com/soleilcot/Release-Strategy-Test.git
           git config user.name "soleilcot"
           git config user.email "soleilari@gmail.com"
           git checkout main
