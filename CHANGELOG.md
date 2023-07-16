@@ -1,3 +1,10 @@
+## [1.7.19](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.18...v1.7.19) (2023-07-16)
+
+
+### Bug Fixes
+
+* move config ([e7c83d7](https://github.com/soleilcot/Release-Strategy-Test/commit/e7c83d7dbd8b4839525921de15e598c5fd805aa6))
+
 ## [1.7.18](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.17...v1.7.18) (2023-07-16)
 
 
