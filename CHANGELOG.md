@@ -1,3 +1,10 @@
+## [1.7.5](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.4...v1.7.5) (2023-07-16)
+
+
+### Bug Fixes
+
+* update permissions ([b631f8d](https://github.com/soleilcot/Release-Strategy-Test/commit/b631f8df763adcde6223d0890d56ef433ac1ef14))
+
 ## [1.7.4](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.3...v1.7.4) (2023-07-16)
 
 
