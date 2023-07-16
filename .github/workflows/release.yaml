@@ -40,4 +40,4 @@ jobs:
           git pull
           git checkout dev
           git rebase main
-          git push --force-with-lease --repo="https://${{ secrets.GH_TOKEN }}@github.com/soleilcot/Release-Strategy-Test" origin dev
+          git push --force-with-lease --repo="https://${{ secrets.GITHUB_TOKEN }}@github.com/soleilcot/Release-Strategy-Test" origin dev
