@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.1.0...v1.1.1) (2023-07-16)
+
+
+### Bug Fixes
+
+* correct syntax ([9e37c22](https://github.com/soleilcot/Release-Strategy-Test/commit/9e37c22b8e5f40b2087f9b7377446a210e144426))
+* generate test release ([97e29bc](https://github.com/soleilcot/Release-Strategy-Test/commit/97e29bc760a84a42f3fcc4b8d0d1c31865d59b75))
+
 # [1.1.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.0.0...v1.1.0) (2023-07-16)
 
 
