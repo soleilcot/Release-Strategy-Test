@@ -34,12 +34,10 @@ jobs:
       - name: Rebase dev branch on master
         if: success()
         run: |
-          $repoPath = "https://${{ secrets.GITHUB_TOKEN }}@github.com/soleilcot/Release-Strategy-Test";
-
           git config user.name "soleilcot"
           git config user.email "soleilari@gmail.com"
           git checkout main
           git pull
           git checkout dev
           git rebase main
-          git push --force-with-lease --repo=$repoPath origin dev
+          git push --force-with-lease --repo="https://${{ secrets.GITHUB_TOKEN }}@github.com/soleilcot/Release-Strategy-Test" origin dev
