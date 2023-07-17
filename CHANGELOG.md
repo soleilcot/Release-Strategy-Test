@@ -1,3 +1,10 @@
+## [1.9.3](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.9.2...v1.9.3) (2023-07-17)
+
+
+### Bug Fixes
+
+* test composer bump ([d9562b1](https://github.com/soleilcot/Release-Strategy-Test/commit/d9562b1982146c6ccc2ac0a215826f3df7307ae4))
+
 ## [1.9.2](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.9.1...v1.9.2) (2023-07-17)
 
 
