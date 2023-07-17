@@ -14,12 +14,10 @@ jobs:
           fetch-depth: 0
       - name: Check Version Key Update
         id: check_version_changes
-        shell: bash
         run: |
-            #!/bin/bash
             changed_lines=$(git diff -r --unified=0 d07d0cea7b0affbf1fe2414c4fb06ddba3378548 2ca1292788f691d7a31d57f3de0433e8edf35d3c -- composer.json | grep -c "version")
             echo "$changed_lines"
-            if [ "$changed_lines" -ne 0 ]; then
+            if [ "$changed_lines" -eq 0 ]; then
                 echo "Error: version in composer.json should not be updated manually."
                 exit 1
             fi
