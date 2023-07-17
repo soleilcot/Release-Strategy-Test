@@ -1,3 +1,14 @@
+## [1.8.1](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.8.0...v1.8.1) (2023-07-17)
+
+
+### Bug Fixes
+
+* another fix in dev ([8731818](https://github.com/soleilcot/Release-Strategy-Test/commit/8731818d04dc20436d2c30dcebb988307fe1fa67))
+* change ([ca018bd](https://github.com/soleilcot/Release-Strategy-Test/commit/ca018bd247d12d2d427844a6e8c891696be541ce))
+* release ([a46691d](https://github.com/soleilcot/Release-Strategy-Test/commit/a46691d6a21f290962f2e9ceb45d13ce5ef5f538))
+* sample ([fb71002](https://github.com/soleilcot/Release-Strategy-Test/commit/fb7100237a7bcdd27ec7ffc8215d98c9d871c5aa))
+* work on release ([820ea35](https://github.com/soleilcot/Release-Strategy-Test/commit/820ea35c9fab2b5ca011225df121057764874e5d))
+
 # [1.8.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.22...v1.8.0) (2023-07-17)
 
 
