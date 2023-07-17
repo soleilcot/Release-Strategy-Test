@@ -15,6 +15,10 @@ jobs:
       - name: Check Version Key Update
         id: check_version_changes
         run: |
-          git diff -r --unified=0 ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- composer.json | grep -c "version"
+          changed_lines=$(git diff -r --unified=0 ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} -- composer.json | grep -c "version") || 0
+          if [ "$changed_lines" -ne "0" ]; then
+            echo "Error: version in composer.json should not be updated manually."
+            exit 1
+          fi
 
 
