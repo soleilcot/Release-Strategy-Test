@@ -7,7 +7,7 @@ let config = {
     '@semantic-release/release-notes-generator',
     '@semantic-release/github',
     [
-      "@ambimax/semantic-release-composer",
+      "@iwavesmedia/semantic-release-composer",
       {
         "skipOnMissingComposerJson": true
       }
