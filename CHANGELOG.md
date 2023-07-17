@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.22...v1.8.0) (2023-07-17)
+
+
+### Features
+
+* test push direct to main ([ea91891](https://github.com/soleilcot/Release-Strategy-Test/commit/ea91891fafa1433f2e89db72fe471f9a4b953cb4))
+
 ## [1.7.22](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.7.21...v1.7.22) (2023-07-16)
 
 
