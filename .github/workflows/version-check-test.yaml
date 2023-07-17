@@ -20,5 +20,6 @@ jobs:
             echo "Error: version in composer.json should not be updated manually."
             exit 1
           fi
+          exit 0
 
 
