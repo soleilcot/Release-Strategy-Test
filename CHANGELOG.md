@@ -1,3 +1,17 @@
+# [1.9.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.8.1...v1.9.0) (2023-07-17)
+
+
+### Bug Fixes
+
+* change ([26e58a6](https://github.com/soleilcot/Release-Strategy-Test/commit/26e58a664943664c7f8550c1a1df3b3ce964185b))
+* on release ([05bc95d](https://github.com/soleilcot/Release-Strategy-Test/commit/05bc95d82d378e475fff62e43423cd23b7b58a84))
+
+
+### Features
+
+* another dev commit ([89e4fe3](https://github.com/soleilcot/Release-Strategy-Test/commit/89e4fe305126c65e8c8367773b9730da8180858b))
+* dev commit ([9168fba](https://github.com/soleilcot/Release-Strategy-Test/commit/9168fba5e5b834b3071321331f6f340486ff5674))
+
 ## [1.8.1](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.8.0...v1.8.1) (2023-07-17)
 
 
