@@ -39,7 +39,7 @@ if (config.branches.some((it) => it.name === REF_NAME && !it.prerelease)) {
     [
       '@semantic-release/git',
       {
-        assets: ['CHANGELOG.md'],
+        assets: ['composer.json','CHANGELOG.md'],
         message:
           'chore(release): ${nextRelease.version} \n\n${nextRelease.notes}',
       },
