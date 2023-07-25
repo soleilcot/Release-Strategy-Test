@@ -1,3 +1,11 @@
+# [1.11.0-RC.1](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.10.0...v1.11.0-RC.1) (2023-07-25)
+
+
+### Features
+
+* feature ([45fa48f](https://github.com/soleilcot/Release-Strategy-Test/commit/45fa48ff038b1080f792a4dba81ddb6c40daaa55))
+* new feature ([1e0a410](https://github.com/soleilcot/Release-Strategy-Test/commit/1e0a41015a6fe37b06768d2dbb9e1b85254b0902))
+
 # [1.10.0](https://github.com/soleilcot/Release-Strategy-Test/compare/v1.9.3...v1.10.0) (2023-07-17)
 
 
